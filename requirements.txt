@@ -30,7 +30,7 @@ GitPython==3.1.24
 gradio==2.3.6
 gradio_client==0.2.6
 h11==0.14.0
-httpcore==0.17.4
+httpcore==0.17.3
 httpx==0.24.1
 huggingface-hub==0.0.19
 idna==3.2
