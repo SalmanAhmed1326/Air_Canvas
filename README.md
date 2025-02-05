@@ -1,4 +1,4 @@
-# Hand Gesture Paint App
+# 🖐️  Hand Gesture Paint App
 
 ## Overview
 The **Hand Gesture Paint App** is an interactive application that allows users to draw on a virtual canvas using hand gestures detected via a webcam. The app utilizes **OpenCV, MediaPipe, and Streamlit** to create an intuitive and touchless drawing experience.
